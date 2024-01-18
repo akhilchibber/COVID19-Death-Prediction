@@ -1,4 +1,4 @@
-# Deep Learning based COVID-19 Death Prediction
+# Machine Learning based COVID-19 Death Prediction
 <p align="center">
   <img src="https://github.com/akhilchibber/COVID19-Death-Prediction/blob/main/COVID-19.png?raw=true" alt="earthml Logo">
 </p>
